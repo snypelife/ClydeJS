@@ -1,0 +1,20 @@
+{
+  "name": "clydejs",
+  "version": "1.0.0",
+  "keywords": [
+    "phantomjs",
+    "spider",
+    "crawler",
+    "webkit"
+  ],
+  "description": "Web crawler/spider that captures HTML and image screenshots of rendered pages using PhantomJS",
+  "main": "clyde.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Rogerson <brettmrogerson@gmail.com> (https://twitter.com/snypelife)",
+  "license": "MIT",
+  "dependencies": {
+    "phantomjs": "^1.9.x"
+  }
+}
